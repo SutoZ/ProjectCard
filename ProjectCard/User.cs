@@ -9,8 +9,6 @@ namespace ProjectCard
     public partial class User
     {
 
-
-//deleted
         [Key]
         public string UserNameID { get; set; }
 
