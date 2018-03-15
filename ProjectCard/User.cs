@@ -8,6 +8,7 @@ namespace ProjectCard
 
     public partial class User
     {
+
         [Key]
         public string UserNameID { get; set; }
 
