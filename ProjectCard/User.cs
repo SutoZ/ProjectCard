@@ -10,9 +10,7 @@ namespace ProjectCard
     {
 
 
-
-        //asd
-
+//deleted
         [Key]
         public string UserNameID { get; set; }
 
